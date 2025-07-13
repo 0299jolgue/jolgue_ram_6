@@ -1,0 +1,1 @@
+pip install pycryptodome requests pypiwin32 pyautogui opencv-python pytz keyboard
